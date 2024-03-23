@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.roy {
+  display: flex;
+  justify-content: space-between;
+  margin:10px;
+}
+li {
+  list-style-type: none;
+}

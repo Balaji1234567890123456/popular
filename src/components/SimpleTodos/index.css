@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.background {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 20px;
+}
+.balu {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
